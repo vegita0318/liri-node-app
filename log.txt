@@ -1,0 +1,470 @@
+
+----------------
+Drake
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/26/2018
+----------------
+Venue: San Francisco City Hall
+Location: San Francisco, CA, United States
+Date: 10/26/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/27/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/29/2018
+----------------
+Venue: Tacoma Dome
+Location: Tacoma, WA, United States
+Date: 11/01/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/03/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/04/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/06/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/07/2018
+----------------
+Venue: Enterprise Center
+Location: Saint Louis, MO, United States
+Date: 11/10/2018
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 11/13/2018
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 11/14/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/16/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/17/2018
+----------------
+Venue: Chateau Le Jardin Event Venue
+Location: Woodbridge, Canada
+Date: 11/29/2018
+----------------
+Venue: Accorhotels Arena
+Location: Paris, France
+Date: 03/08/2019
+----------------
+drake
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/26/2018
+----------------
+Venue: San Francisco City Hall
+Location: San Francisco, CA, United States
+Date: 10/26/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/27/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/29/2018
+----------------
+Venue: Tacoma Dome
+Location: Tacoma, WA, United States
+Date: 11/01/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/03/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/04/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/06/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/07/2018
+----------------
+Venue: Enterprise Center
+Location: Saint Louis, MO, United States
+Date: 11/10/2018
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 11/13/2018
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 11/14/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/16/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/17/2018
+----------------
+Venue: Chateau Le Jardin Event Venue
+Location: Woodbridge, Canada
+Date: 11/29/2018
+----------------
+Venue: Accorhotels Arena
+Location: Paris, France
+Date: 03/08/2019
+----------------
+Migos
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/26/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/27/2018
+----------------
+Venue: Oracle Arena
+Location: Oakland, CA, United States
+Date: 10/29/2018
+----------------
+Venue: Tacoma Dome
+Location: Tacoma, WA, United States
+Date: 11/01/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/03/2018
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/04/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/06/2018
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/07/2018
+----------------
+Venue: Enterprise Center
+Location: Saint Louis, MO, United States
+Date: 11/10/2018
+----------------
+Venue: Xcel Energy Center
+Location: St Paul, MN, United States
+Date: 11/11/2018
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 11/13/2018
+----------------
+Venue: American Airlines Arena
+Location: Miami, FL, United States
+Date: 11/14/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/16/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/17/2018
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 11/18/2018
+----------------
+Venue: Scotiabank Arena
+Location: Toronto, Canada
+Date: 11/30/2018
+----------------
+Venue: Ted Constant Convocation Center
+Location: Norfolk, VA, United States
+Date: 12/06/2018
+----------------
+Venue: CFE Arena
+Location: Orlando, FL, United States
+Date: 12/07/2018
+----------------
+Venue: U.S. Bank Arena
+Location: Cincinnati, OH, United States
+Date: 12/08/2018
+----------------
+Venue: Indiana Farmers Coliseum
+Location: Indianapolis, IN, United States
+Date: 12/09/2018
+----------------
+Bodak Yellow
+----------------
+Artist: Cardi B
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/cab6e91217590b37cc254585f3f951c5a5280375?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Invasion of Privacy
+----------------
+Artist: Cardi B
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/67a5f0d728aee238b1fddb0de1cf96333335676b?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Invasion of Privacy
+----------------
+Artist: Cardi B
+Song Name: Bodak Yellow (feat. Kodak Black)
+Preview of Song: https://p.scdn.co/mp3-preview/d2e2565658285dffb0c781d68e801a3fb9482f01?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Kodak Black)
+----------------
+Artist: Kodak Black
+Song Name: Bodak Yellow (feat. Kodak Black)
+Preview of Song: https://p.scdn.co/mp3-preview/d2e2565658285dffb0c781d68e801a3fb9482f01?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Kodak Black)
+----------------
+Artist: Cardi B
+Song Name: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Preview of Song: https://p.scdn.co/mp3-preview/9051c43e9b2bb88f2152a040de94fb546dfb6940?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+----------------
+Artist: Messiah
+Song Name: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Preview of Song: https://p.scdn.co/mp3-preview/9051c43e9b2bb88f2152a040de94fb546dfb6940?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+----------------
+Artist: Melii
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/ae140bca634b93a8cd299d08ade4a3e0521b9dc1?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Zero
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/49b0a434cc7028da6973935a16e3b94301eb70eb?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Forgotten Modern
+Song Name: Bodak Yellow (Forgotten Modern Remix)
+Preview of Song: https://p.scdn.co/mp3-preview/b5c70b1ec848d98a56f7832548cbf8614938d2c5?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (Forgotten Modern Remix)
+----------------
+Artist: J-Que Beenz
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/d143b73ad90b8c23e671f1676f089c409532a77f?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Dana Kelson
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/57f55a292bde5cd9e1642a65fde5d9772b93813d?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Panski
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/57f55a292bde5cd9e1642a65fde5d9772b93813d?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: B Lou
+Song Name: Bodak Yellow - Instrumental
+Preview of Song: https://p.scdn.co/mp3-preview/6c6fada46f14fc21d9fde416e049d6865252a7a1?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Cardi B
+Song Name: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Preview of Song: https://p.scdn.co/mp3-preview/7a55735ed2e859b245deaa7d55e1193ed71b99bd?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+----------------
+Artist: Messiah
+Song Name: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Preview of Song: https://p.scdn.co/mp3-preview/7a55735ed2e859b245deaa7d55e1193ed71b99bd?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+----------------
+Artist: Kyle Edwards
+Song Name: Bodak Yellow (Jersey Club)
+Preview of Song: https://p.scdn.co/mp3-preview/ac888c8247e77f7ebba9b571a24ff098e195f968?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (Jersey Club)
+----------------
+Artist: DJ Smallz 732
+Song Name: Bodak Yellow (Jersey Club)
+Preview of Song: https://p.scdn.co/mp3-preview/ac888c8247e77f7ebba9b571a24ff098e195f968?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (Jersey Club)
+----------------
+Artist: K!NG KVNG
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/15719aa506741289b24aa5335ba380de66bc3e76?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Black Prez
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/15719aa506741289b24aa5335ba380de66bc3e76?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Death Come Cover Me
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/15719aa506741289b24aa5335ba380de66bc3e76?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Metrixx
+Song Name: Bodak Yellow - Instrumental
+Preview of Song: https://p.scdn.co/mp3-preview/4f6d83bcfa2afb13b2be759da63ba25fa1f90f4d?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow - Instrumental
+----------------
+Artist: Ev0lution
+Song Name: Bodak Yellow
+Preview of Song: https://p.scdn.co/mp3-preview/aa6d3f1b741c4d427c1af48819e4ebe00b383b87?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow
+----------------
+Artist: Workout Music Tv
+Song Name: Bodak Yellow - Workout Remix 135 Bpm
+Preview of Song: https://p.scdn.co/mp3-preview/9b284b58c2c296c3be616d4a0d4277e1f13ac9b4?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Aerobic Hits 2017 Fall Session (60 Minutes Mixed Compilation for Fitness & Workout 135 Bpm / 32 Count)
+----------------
+Artist: Lil PR
+Song Name: Bodak Yellow (Spanish Version)
+Preview of Song: https://p.scdn.co/mp3-preview/745ae58fbb46bac8a24f4cc467a1e09ac9590c04?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bodak Yellow (Spanish Version)
+----------------
+Artist: Prince Dollaz
+Song Name: Bodak Yellow - Remix
+Preview of Song: https://p.scdn.co/mp3-preview/1c335aeb0c1787505ac6753370cea742f27fffa7?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: In The Zone
+----------------
+Artist: Workout Music Tv
+Song Name: Bodak Yellow - Workout Remix 128 Bpm
+Preview of Song: https://p.scdn.co/mp3-preview/0d9f67b757a0416208b189287cbc16d7c9769d0d?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: 40 Fall Hits 2017 Workout Session (Unmixed Compilation for Fitness & Workout 128 - 135 Bpm / 32 Count)
+----------------
+Artist: Pollie Pop
+Song Name: Bodak Yellow #Screwed
+Preview of Song: https://p.scdn.co/mp3-preview/989b4173eada369b2db3a16f4b9cb80e61887d4f?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: 28 Grams, Vol. 16 (Screwed)
+----------------
+"I Want it That Way"
+----------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: The Hits--Chapter One
+----------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Millennium
+----------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Covers Part IV
+----------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Beautiful Dreams
+----------------
+Artist: Various Artists
+Song Name: I Want It That Way
+Preview of Song: null
+Album Name: Punk Goes Pop
+----------------
+Artist: Manuel Costa
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: I Want It That Way
+----------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview of Song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Poodle Hat
+----------------
+Artist: Various Artists
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: 90 Sweet 90s Hits!
+----------------
+Artist: NKOTBSB
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: NKOTBSB
+----------------
+Artist: New Kids On The Block
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: NKOTBSB
+----------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: NKOTBSB
+----------------
+Artist: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview of Song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------
+Artist: Boyce Avenue
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Cover Sessions, Vol. 2
+----------------
+Artist: Steel Panther
+Song Name: I Want It That Way
+Preview of Song: null
+Album Name: I Want It That Way
+----------------
+Artist: Landon Austin
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: I Want It That Way
+----------------
+Artist: Julia Sheer
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: I Want It That Way
+----------------
+Artist: Scary Pockets
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Nu Funk
+----------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview of Song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: The Essential "Weird Al" Yankovic
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: Selfies on Kodachrome
+----------------
+Artist: Various Artists
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: NOW That's What I Call 90s Pop
+----------------
+Artist: #90s Update
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: #90s Update
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: PMJ Is For Lovers: The Love Song Collection
+----------------
+Artist: Kyle Olthoff
+Song Name: I Want It That Way
+Preview of Song: https://p.scdn.co/mp3-preview/bb5d73d1bfe8a8b38cd5278112c7022599464c67?cid=e65fb7cc23674ad59cb5948181dfe523
+Album Name: I Want It That Way
+----------------
